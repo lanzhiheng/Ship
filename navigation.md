@@ -14,3 +14,4 @@
 | font squirrel | https://www.fontsquirrel.com/ | 免费的字体|
 | canva |  https://www.canva.com/ |  网上设计作品 |
 | 有字库| http://www.youziku.com/ | 中文字库 |
+| hexo | https://hexo.io/zh-cn/ | 博客框架 |
