@@ -13,3 +13,4 @@
 |  zsh |http://ohmyz.sh/ |逼格高的shell |
 | font squirrel | https://www.fontsquirrel.com/ | 免费的字体|
 | canva |  https://www.canva.com/ |  网上设计作品 |
+| 有字库| http://www.youziku.com/ | 中文字库 |
