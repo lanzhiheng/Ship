@@ -16,3 +16,5 @@
 | 有字库| http://www.youziku.com/ | 中文字库 |
 | hexo | https://hexo.io/zh-cn/ | 博客框架 |
 | node.js | https://nodejs.org/en/ | node.js官网 |
+| jquery | https://jquery.com/ | jquery官网 |
+| coffeescript | http://coffeescript.org/ | coffeescript官网|
