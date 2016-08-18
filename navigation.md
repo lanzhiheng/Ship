@@ -18,3 +18,4 @@
 | node.js | https://nodejs.org/en/ | node.js官网 |
 | jquery | https://jquery.com/ | jquery官网 |
 | coffeescript | http://coffeescript.org/ | coffeescript官网|
+| jasmine | http://jasmine.github.io/ | js行为测试开发框架 |
