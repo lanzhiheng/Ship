@@ -13,7 +13,6 @@
 |  zsh |http://ohmyz.sh/ |逼格高的shell |
 | font squirrel | https://www.fontsquirrel.com/ | 免费的字体|
 | canva |  https://www.canva.com/ |  网上设计作品 |
-| 有字库| http://www.youziku.com/ | 中文字库 |
 | node.js | https://nodejs.org/en/ | node.js官网 |
 | jquery | https://jquery.com/ | jquery官网 |
 | coffeescript | http://coffeescript.org/ | coffeescript官网|
@@ -22,3 +21,4 @@
 | less | http://lesscss.org/ | less官网 |
 | jekyll | http://jekyll.bootcss.com/ | jekyll官网 |
 | talk jekyll | https://talk.jekyllrb.com/ | jekyll论坛 | 
+| chinesefontdesign | https://chinesefontdesign.com/ | 中文字体 |
