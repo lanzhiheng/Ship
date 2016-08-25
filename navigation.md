@@ -14,10 +14,11 @@
 | font squirrel | https://www.fontsquirrel.com/ | 免费的字体|
 | canva |  https://www.canva.com/ |  网上设计作品 |
 | 有字库| http://www.youziku.com/ | 中文字库 |
-| hexo | https://hexo.io/zh-cn/ | 博客框架 |
 | node.js | https://nodejs.org/en/ | node.js官网 |
 | jquery | https://jquery.com/ | jquery官网 |
 | coffeescript | http://coffeescript.org/ | coffeescript官网|
 | jasmine | http://jasmine.github.io/ | js行为测试开发框架 |
 | js2.coffee | http://js2.coffee/ | coffee跟javascript相互转换的网站 |
 | less | http://lesscss.org/ | less官网 |
+| jekyll | http://jekyll.bootcss.com/ | jekyll官网 |
+| talk jekyll | https://talk.jekyllrb.com/ | jekyll论坛 | 
