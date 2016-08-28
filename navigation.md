@@ -22,3 +22,6 @@
 | jekyll | http://jekyll.bootcss.com/ | jekyll官网 |
 | talk jekyll | https://talk.jekyllrb.com/ | jekyll论坛 | 
 | chinesefontdesign | https://chinesefontdesign.com/ | 中文字体 |
+| react | https://facebook.github.io/react/ | 引领未来的前端框架 |
+| webpack | https://webpack.github.io/ | 优秀的打包工具 |
+| yeoman | http://yeoman.io/ | 脚手架搭建框架 |
