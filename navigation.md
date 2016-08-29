@@ -25,3 +25,4 @@
 | react | https://facebook.github.io/react/ | 引领未来的前端框架 |
 | webpack | https://webpack.github.io/ | 优秀的打包工具 |
 | yeoman | http://yeoman.io/ | 脚手架搭建框架 |
+| chai | http://chaijs.com/ | 测试框架 |
