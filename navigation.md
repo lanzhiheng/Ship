@@ -31,3 +31,6 @@
 | express | https://expressjs.com/ | nodejs框架 |
 | golang | https://golang.org/ | golang 官网 |
 | freeCodeCamp | https://www.freecodecamp.com/ | 一个前端学习平台 |
+| GreenKeeper | https://github.com/greenkeeperio/greenkeeper | 监控nodejs项目依赖| 
+| CodeClimate | https://codeclimate.com/ | 代码评分 |
+| Jest | https://facebook.github.io/jest/ | facebook的react测试框架 |
