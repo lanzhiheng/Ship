@@ -34,3 +34,4 @@
 | GreenKeeper | https://github.com/greenkeeperio/greenkeeper | 监控nodejs项目依赖| 
 | CodeClimate | https://codeclimate.com/ | 代码评分 |
 | Jest | https://facebook.github.io/jest/ | facebook的react测试框架 |
+| LiveCareer | https://www.livecareer.com/ | 简历模板 |
