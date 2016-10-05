@@ -35,3 +35,4 @@
 | CodeClimate | https://codeclimate.com/ | 代码评分 |
 | Jest | https://facebook.github.io/jest/ | facebook的react测试框架 |
 | LiveCareer | https://www.livecareer.com/ | 简历模板 |
+| enzyme | http://airbnb.io/enzyme/ | 测试套件(配合jest) |
