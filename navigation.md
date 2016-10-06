@@ -36,3 +36,4 @@
 | Jest | https://facebook.github.io/jest/ | facebook的react测试框架 |
 | LiveCareer | https://www.livecareer.com/ | 简历模板 |
 | enzyme | http://airbnb.io/enzyme/ | 测试套件(配合jest) |
+| create-react-app | https://github.com/facebookincubator/create-react-app | 创建react项目 |
